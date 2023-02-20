@@ -1,17 +1,14 @@
 ---
-theme : "night"
+theme: "night"
 transition: "slide"
 highlightTheme: "monokai"
 slideNumber: false
 title: "self-introduction"
-
 ---
+
 # 自己紹介
 
-
-
 <small>Created by Iori ONDA/[@iorionda](https://github.com/iorionda)</small>
-
 
 ---
 
@@ -25,7 +22,6 @@ title: "self-introduction"
 
 1979/07/21 生まれ
 
-
 ---
 
 ## 得意領域
@@ -33,9 +29,9 @@ title: "self-introduction"
 --
 
 - 要件定義
-- DB設計
-- Webアプリケーション設計
-- Webアプリケーション開発
+- DB 設計
+- Web アプリケーション設計
+- Web アプリケーション開発
 - DDD（ドメイン駆動開発）
 
 ---
@@ -53,6 +49,7 @@ title: "self-introduction"
 --
 
 ### Ruby
+
 - Ruby on Rails
 - Sinatra
 
@@ -94,25 +91,25 @@ title: "self-introduction"
 
 ### 2012/10/ - 2016/03
 
-#### 大量FAX送信Webサービスの開発
+#### 大量 FAX 送信 Web サービスの開発
 
 --
 
 ### 2016/05 - 2016/09
 
-#### オリジナルTシャツ作成のECサイト開発
+#### オリジナル T シャツ作成の EC サイト開発
 
 --
 
 ### 2016/08 - 2016/12
 
-#### HRシステム開発
+#### HR システム開発
 
 --
 
 ### 2017/02 - 2017/02
 
-#### クレジットカード決済システム導入のAPI開発
+#### クレジットカード決済システム導入の API 開発
 
 --
 
@@ -124,7 +121,7 @@ title: "self-introduction"
 
 ### 2016/04 - 2016/07
 
-#### 営業支援の為のAIサービス開発
+#### 営業支援の為の AI サービス開発
 
 --
 
@@ -134,7 +131,7 @@ title: "self-introduction"
 
 --
 
-### 2018/11 - 2019/03 
+### 2018/11 - 2019/03
 
 #### 多分野向けのニュース配信サービス開発
 
@@ -154,7 +151,7 @@ title: "self-introduction"
 
 ### 2020/10 - 2021/07
 
-#### 人間関係構築のサービスのMVP開発
+#### 人間関係構築のサービスの MVP 開発
 
 --
 
@@ -166,7 +163,7 @@ title: "self-introduction"
 
 ### 2022/01 - 2022/12
 
-#### 現物NFTサービスの開発
+#### 現物 NFT サービスの開発
 
 --
 
@@ -204,7 +201,6 @@ title: "self-introduction"
 フリークライミング
 
 <img src="https://cdn.myportfolio.com/a0be9ca3-26ec-4a7e-add7-832290b85a82/4abe542f-7de7-4981-9e2c-e2884e0775af_rw_1200.jpeg?h=eef111f2891fa3a3bb638dbadf6b7427" width="50%">
-
 
 --
 
