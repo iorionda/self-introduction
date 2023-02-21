@@ -236,4 +236,13 @@ title: "self-introduction"
 
 ---
 
+### 書籍
+
+--
+
+- アジャイルサムライ
+- Extreame Programing 2
+- Web+DB Press
+- 機械学習はじめよう
+
 # ありがとうございました
